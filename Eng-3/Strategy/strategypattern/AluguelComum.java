@@ -2,7 +2,7 @@ package strategypattern;
 
 public class AluguelComum {
 
-	public void financiar() {
+	public void alugar() {
 		System.out.println("Alugar casa sem piscina");
 
 	}
